@@ -1,0 +1,8 @@
+c:\users\1411070\documents\visual studio 2013\Projects\CheckSKU\CheckSKU\bin\Debug\CheckSKU.exe.config
+c:\users\1411070\documents\visual studio 2013\Projects\CheckSKU\CheckSKU\bin\Debug\CheckSKU.exe
+c:\users\1411070\documents\visual studio 2013\Projects\CheckSKU\CheckSKU\bin\Debug\CheckSKU.pdb
+c:\users\1411070\documents\visual studio 2013\Projects\CheckSKU\CheckSKU\obj\Debug\CheckSKU.Form1.resources
+c:\users\1411070\documents\visual studio 2013\Projects\CheckSKU\CheckSKU\obj\Debug\CheckSKU.Properties.Resources.resources
+c:\users\1411070\documents\visual studio 2013\Projects\CheckSKU\CheckSKU\obj\Debug\CheckSKU.csproj.GenerateResource.Cache
+c:\users\1411070\documents\visual studio 2013\Projects\CheckSKU\CheckSKU\obj\Debug\CheckSKU.exe
+c:\users\1411070\documents\visual studio 2013\Projects\CheckSKU\CheckSKU\obj\Debug\CheckSKU.pdb

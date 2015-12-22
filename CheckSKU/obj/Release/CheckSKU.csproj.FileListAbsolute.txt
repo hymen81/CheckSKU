@@ -1,0 +1,26 @@
+C:\Users\1411070\Documents\Visual Studio 2013\Projects\CheckSKU\CheckSKU\bin\Release\WCheckSKU.exe.config
+C:\Users\1411070\Documents\Visual Studio 2013\Projects\CheckSKU\CheckSKU\bin\Release\WCheckSKU.exe.manifest
+C:\Users\1411070\Documents\Visual Studio 2013\Projects\CheckSKU\CheckSKU\bin\Release\WCheckSKU.application
+C:\Users\1411070\Documents\Visual Studio 2013\Projects\CheckSKU\CheckSKU\bin\Release\WCheckSKU.exe
+C:\Users\1411070\Documents\Visual Studio 2013\Projects\CheckSKU\CheckSKU\bin\Release\WCheckSKU.pdb
+C:\Users\1411070\Documents\Visual Studio 2013\Projects\CheckSKU\CheckSKU\obj\Release\CheckSKU.Form1.resources
+C:\Users\1411070\Documents\Visual Studio 2013\Projects\CheckSKU\CheckSKU\obj\Release\WCheckSKU.Properties.Resources.resources
+C:\Users\1411070\Documents\Visual Studio 2013\Projects\CheckSKU\CheckSKU\obj\Release\CheckSKU.csproj.GenerateResource.Cache
+C:\Users\1411070\Documents\Visual Studio 2013\Projects\CheckSKU\CheckSKU\obj\Release\WCheckSKU.exe.manifest
+C:\Users\1411070\Documents\Visual Studio 2013\Projects\CheckSKU\CheckSKU\obj\Release\WCheckSKU.application
+C:\Users\1411070\Documents\Visual Studio 2013\Projects\CheckSKU\CheckSKU\obj\Release\WCheckSKU.exe
+C:\Users\1411070\Documents\Visual Studio 2013\Projects\CheckSKU\CheckSKU\obj\Release\WCheckSKU.pdb
+C:\Users\1411070\Documents\Visual Studio 2013\Projects\CheckSKU\CheckSKU\obj\Release\CheckSKU.csprojResolveAssemblyReference.cache
+C:\Users\1411070\Documents\CheckSKU\CheckSKU\CheckSKU\bin\Release\WCheckSKU.exe.config
+C:\Users\1411070\Documents\CheckSKU\CheckSKU\CheckSKU\obj\Release\WCheckSKU.exe
+C:\Users\1411070\Documents\CheckSKU\CheckSKU\CheckSKU\obj\Release\WCheckSKU.pdb
+C:\Users\1411070\Documents\CheckSKU\CheckSKU\CheckSKU\bin\Release\WCheckSKU.exe.manifest
+C:\Users\1411070\Documents\CheckSKU\CheckSKU\CheckSKU\bin\Release\WCheckSKU.application
+C:\Users\1411070\Documents\CheckSKU\CheckSKU\CheckSKU\bin\Release\WCheckSKU.exe
+C:\Users\1411070\Documents\CheckSKU\CheckSKU\CheckSKU\bin\Release\WCheckSKU.pdb
+C:\Users\1411070\Documents\CheckSKU\CheckSKU\CheckSKU\obj\Release\CheckSKU.csprojResolveAssemblyReference.cache
+C:\Users\1411070\Documents\CheckSKU\CheckSKU\CheckSKU\obj\Release\CheckSKU.Form1.resources
+C:\Users\1411070\Documents\CheckSKU\CheckSKU\CheckSKU\obj\Release\WCheckSKU.Properties.Resources.resources
+C:\Users\1411070\Documents\CheckSKU\CheckSKU\CheckSKU\obj\Release\CheckSKU.csproj.GenerateResource.Cache
+C:\Users\1411070\Documents\CheckSKU\CheckSKU\CheckSKU\obj\Release\WCheckSKU.exe.manifest
+C:\Users\1411070\Documents\CheckSKU\CheckSKU\CheckSKU\obj\Release\WCheckSKU.application
